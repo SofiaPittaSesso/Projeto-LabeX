@@ -23,20 +23,29 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## <h2 id="funciona">✔️ O que funciona</h2>
 
-* O usuário é capaz do clicar os botões de dar match ou de rejeitar os perfis disponíveis
-* O usuário pode acessar a lista de perfis que deram um match de volta e limpar todos os matches dessa lista
-* O usuário receberá uma mensagem caso todos os perfis disponíves acabem
+* O usuário sem autorização é capaz de acessar a parte pública do site, onde ele tem acesso à lista de viagens e pode se inscrever para qualquer uma delas.
+* O administrador é capaz de acessar a parte privada do site através da página de login.
+* Ele é capaz de ver a lista de viagens e acessar a página de detalhes de cada, onde ele pode aceitar ou rejeitar os candidatos inscritos para aquela viagem.
+* Ele também é capaz de criar novas viagens, deletar viagens e fazer logout.
 
 ## <h2 id="img">Imagens</h2>
-
-Página Inicial  | Página das matches
+  
+Página Inicial
+:-------------------------:
+![image](https://user-images.githubusercontent.com/94647334/159588044-b2eb2c03-944d-45d7-8cda-1c1be3e3abc4.png)
+  
+Página da Lista de Viagens Pública | Página de Inscrição
 :-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/94647334/159585404-0196857a-fd4c-4d64-9e8e-d33681636080.png) | ![image](https://user-images.githubusercontent.com/94647334/159585753-08784bd0-8085-4860-a0c8-60cc137232ff.png)
+![image](https://user-images.githubusercontent.com/94647334/159588127-edc97e83-3791-429b-81b1-b3dae1c682e7.png) | ![image](https://user-images.githubusercontent.com/94647334/159588199-80053cac-a057-472f-a889-c45edf957233.png)
 
-Página Inicial sem novos perfis  | Página carregando
+
+Página de Login | Página do Painel Administrativo
 :-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/94647334/159585835-9564b987-f5d8-45aa-bcec-cda5967c3f3f.png) | ![image](https://user-images.githubusercontent.com/94647334/159586522-53f34671-4436-47d6-812d-2f04371974a0.png)
-
+![image](https://user-images.githubusercontent.com/94647334/159589020-4053d840-f6dd-4a43-accf-656210c8dbd5.png) | ![image](https://user-images.githubusercontent.com/94647334/159588344-3ec39e9d-d3c9-4010-8cf1-4a76a3f348b9.png)
+  
+Página de Criar Novas Viagens | Página de Detalhes da Viagem
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/94647334/159588417-da1b3033-1028-40a1-8f05-a97bbf0fe8f7.png) | ![image](https://user-images.githubusercontent.com/94647334/159588787-b1e2a6b3-2e78-4446-9671-c1bd879bddbd.png)
   
 ## <h2 id="fontes">Fontes<h2>
   
