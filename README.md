@@ -39,11 +39,11 @@ Página da Lista de Viagens Pública | Página de Inscrição
 ![image](https://user-images.githubusercontent.com/94647334/159588127-edc97e83-3791-429b-81b1-b3dae1c682e7.png) | ![image](https://user-images.githubusercontent.com/94647334/159588199-80053cac-a057-472f-a889-c45edf957233.png)
 
 
-Página de Login | Página do Painel Administrativo
+Página de Login | Página com Painel Administrativo
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/94647334/159589020-4053d840-f6dd-4a43-accf-656210c8dbd5.png) | ![image](https://user-images.githubusercontent.com/94647334/159588344-3ec39e9d-d3c9-4010-8cf1-4a76a3f348b9.png)
   
-Página de Criar Novas Viagens | Página de Detalhes da Viagem
+Página de Criar Novas Viagens | Página com Detalhes da Viagem
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/94647334/159588417-da1b3033-1028-40a1-8f05-a97bbf0fe8f7.png) | ![image](https://user-images.githubusercontent.com/94647334/159588787-b1e2a6b3-2e78-4446-9671-c1bd879bddbd.png)
   
